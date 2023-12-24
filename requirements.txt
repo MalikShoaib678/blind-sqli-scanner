@@ -1,0 +1,9 @@
+termcolor
+argparse
+urllib
+concurrent
+bs4
+fake_useragent
+re
+threading
+time
